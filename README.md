@@ -10,7 +10,7 @@ npm install --save vue-upper
 
 ### Usage instructions  
 
-Install the mixin globally
+Install the directive globally on your *main.js*
 
 ```javascript
 import VueUpper from 'vue-upper';
