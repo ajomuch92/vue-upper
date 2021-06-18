@@ -1,5 +1,5 @@
 # Vue Upper
-A directive for Vuejs to transform the text to upper over an input, even transforming when binding a variable. You can see a demo [here](https://codesandbox.io/s/smoosh-cache-66m8k)
+A directive for Vuejs to transform the text to upper over an input, even transforming when binding a variable. You can see a demo [here](https://codesandbox.io/s/smoosh-cache-66m8k).
 
 ### Install  
 
