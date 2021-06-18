@@ -1,6 +1,6 @@
 {
   "name": "vue-upper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package for Vuejs allows to transform the text to upper over an input",
   "main": "index.js",
   "scripts": {

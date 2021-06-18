@@ -1,4 +1,4 @@
-const VueUpper = {
+const VueUpperDirective = {
   bind: (el) => {
     el.style.textTransform = 'uppercase'
     el.addEventListener('keyup', () => {
@@ -11,4 +11,4 @@ const VueUpper = {
   }
 };
 
-export default VueUpper
+export default VueUpperDirective

@@ -1,9 +1,7 @@
-import VueUpper from './src/vue-upper';
+import VueUpperDirective from './src/vue-upper';
 
 export default {
   install(vue) {
-    vue.directive('upper', VueUpper);
+    vue.directive('upper', VueUpperDirective);
   }
 };
-
-export const VueUpper =  VueUpper;
