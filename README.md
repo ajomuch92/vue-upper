@@ -1,5 +1,5 @@
-# vue-reset-data
-A mixin to reset your data to some point of time for VueJS components
+# Vue Upper
+A directive for Vuejs to transform the text to upper over an input, even transforming when binding a variable
 
 ### Install  
 
