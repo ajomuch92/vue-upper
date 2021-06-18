@@ -21,7 +21,7 @@ Vue.use(VueUpper);
 ### How to use it
 
 ```html
-
+  <input v-upper type="text" v-model="youVariable">
 ```
 
 ### License
